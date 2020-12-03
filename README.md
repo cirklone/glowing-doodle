@@ -1,2 +1,2 @@
 # glowing-doodle
-create solutions that automagically resolving by recursion
+create solutions that automagically resolve by recursion
